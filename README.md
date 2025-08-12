@@ -2,7 +2,7 @@
 # Sales Analysis Project
 ## Project Overview
 This project analyzes sales performance using Python, SQL, and Power BI to uncover actionable insights for business decision-making.
-The workflow includes data cleaning, SQL-based data merging, exploratory data analysis (EDA), and interactive dashboard creation to monitor key business metrics.
+The workflow includes  data transformation, data cleaning, SQL-based data merging, exploratory data analysis (EDA), and interactive dashboard creation to monitor key business metrics.
 
 ## Tools & Technologies Used
 
