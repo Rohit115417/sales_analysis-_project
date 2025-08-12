@@ -28,20 +28,24 @@ Unit Price vs. Profit Margin – Identifies high-margin pricing bands.
 🔄 Project Workflow
 
 1️⃣ Data Cleaning & Preprocessing (Python)
+
 Removed duplicates and handled missing values.
 Standardized column names and formats.
 Converted date columns to datetime for time-series analysis.
 
 2️⃣ SQL Data Merging in Python
+
 Connected to the database and executed SQL queries to merge multiple tables.
 Applied filtering, aggregation, and joins for meaningful data structure.
 
 3️⃣ Exploratory Data Analysis (EDA)
+
 Identified seasonal peaks in revenue and profit.
 Analyzed distribution of order values and high-margin price bands.
 Investigated product and regional performance trends.
 
 4️⃣ Power BI Dashboard Creation
+
 Designed three dashboards:
 Executive Overview & Trends – Business KPIs, monthly trends, and customer order analysis.
 Product & Channel Performance – Best-selling products, profit leaders, and channel performance.
@@ -64,7 +68,7 @@ Geographic & Customer Insights
 
 
 📈 Insights & Key Findings
-##Revenue & Profit Trends:
+##**Revenue & Profit Trends:**
 
 $1.2B in total revenue with $461.8M profit and 37.36% profit margin.
 
