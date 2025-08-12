@@ -55,33 +55,38 @@ Executive Overview & Trends
 
 
 Product & Channel Performance
+<img width="1315" height="725" alt="Screenshot 2025-08-12 082653" src="https://github.com/user-attachments/assets/a5e58234-d299-4bd1-beb6-f4492d2e1bb7" />
+
 
 Geographic & Customer Insights
+<img width="1335" height="718" alt="Screenshot 2025-08-12 084541" src="https://github.com/user-attachments/assets/f2e415b8-3745-41f6-b361-fdcd665473eb" />
+
+
 
 📈 Insights & Key Findings
-Revenue & Profit Trends:
+##Revenue & Profit Trends:
 
 $1.2B in total revenue with $461.8M profit and 37.36% profit margin.
 
 Peaks in April, May, and August highlight strong seasonal demand.
 
-Customer Behavior:
+##Customer Behavior:
 
 Most orders are in lower spending tiers.
 
 High-margin price bands at ~$1K, ~$2K, and ~$5K–$6K.
 
-Regional Insights:
+##Regional Insights:
 
 Midwest is the top-performing region (30.1% of sales, 37.5% margin).
 
 Wyoming has the lowest sales at $1.8M.
 
-Product Performance:
+##Product Performance:
 
 Product 26 ($117M) leads in revenue, Product 9 (40% margin) leads in profitability.
 
-Channel Performance:
+##Channel Performance:
 
 Export channel generates 54% of revenue and 53.56% of profit.
 
