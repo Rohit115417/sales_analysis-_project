@@ -68,6 +68,7 @@ Geographic & Customer Insights
 
 
 📈 Insights & Key Findings
+
 ##Revenue & Profit Trends:
 
 $1.2B in total revenue with $461.8M profit and 37.36% profit margin.
