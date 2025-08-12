@@ -72,19 +72,16 @@ Geographic & Customer Insights
 ##Revenue & Profit Trends:
 
 $1.2B in total revenue with $461.8M profit and 37.36% profit margin.
-
 Peaks in April, May, and August highlight strong seasonal demand.
 
 ##Customer Behavior:
 
 Most orders are in lower spending tiers.
-
 High-margin price bands at ~$1K, ~$2K, and ~$5K–$6K.
 
 ##Regional Insights:
 
 Midwest is the top-performing region (30.1% of sales, 37.5% margin).
-
 Wyoming has the lowest sales at $1.8M.
 
 ##Product Performance:
@@ -94,6 +91,5 @@ Product 26 ($117M) leads in revenue, Product 9 (40% margin) leads in profitabili
 ##Channel Performance:
 
 Export channel generates 54% of revenue and 53.56% of profit.
-
 All channels have similar profit margins (~37–38%).
 
