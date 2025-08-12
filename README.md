@@ -1,16 +1,20 @@
 # sales_analysis_project
 📊 Sales Analysis Project
-📌 Project Overview
+## Project Overview
 This project analyzes sales performance using Python, SQL, and Power BI to uncover actionable insights for business decision-making.
 The workflow includes data cleaning, exploratory data analysis (EDA), SQL-based data merging, and interactive dashboard creation to monitor key business metrics.
 
-🛠 Tools & Technologies Used
+## Tools & Technologies Used
+
 Python → Data cleaning, preprocessing, and exploratory data analysis
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 SQL → Merging tables, filtering, and data retrieval within Python
+
 Power BI → Creating interactive dashboards for visualization & KPI tracking
 
-🎯 KPIs Used in the Dashboard
+## KPIs Used in the Dashboard
 Total Revenue – Measures overall sales performance.
 Total Profit – Tracks business profitability.
 Profit Margin % – Shows efficiency in converting sales to profit.
