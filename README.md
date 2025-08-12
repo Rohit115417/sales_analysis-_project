@@ -80,7 +80,8 @@ Product & Channel Performance
 
 
 Geographic & Customer Insights
-<img width="1335" height="718" alt="Screenshot 2025-08-12 084541" src="https://github.com/user-attachments/assets/f2e415b8-3745-41f6-b361-fdcd665473eb" />
+<img width="1318" height="736" alt="Screenshot 2025-08-12 091208" src="https://github.com/user-attachments/assets/2b88d80b-edc9-4087-b3c3-44d5d0a7cf93" />
+
 
 
 
