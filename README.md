@@ -1,8 +1,8 @@
 
-## Sales Analysis Project
+# Sales Analysis Project
 ## Project Overview
 This project analyzes sales performance using Python, SQL, and Power BI to uncover actionable insights for business decision-making.
-The workflow includes data cleaning, exploratory data analysis (EDA), SQL-based data merging, and interactive dashboard creation to monitor key business metrics.
+The workflow includes data cleaning, SQL-based data merging, exploratory data analysis (EDA), and interactive dashboard creation to monitor key business metrics.
 
 ## Tools & Technologies Used
 
@@ -42,26 +42,26 @@ Order Value Distribution – Segments customers by spending tier.
 
 Unit Price vs. Profit Margin – Identifies high-margin pricing bands.
 
-🔄 Project Workflow
+## Project Workflow
 
-1️⃣ Data Cleaning & Preprocessing (Python)
+1️ Data Cleaning & Preprocessing (Python)
 
 Removed duplicates and handled missing values.
 Standardized column names and formats.
 Converted date columns to datetime for time-series analysis.
 
-2️⃣ SQL Data Merging in Python
+2️ SQL Data Merging in Python
 
 Connected to the database and executed SQL queries to merge multiple tables.
 Applied filtering, aggregation, and joins for meaningful data structure.
 
-3️⃣ Exploratory Data Analysis (EDA)
+3️ Exploratory Data Analysis (EDA)
 
 Identified seasonal peaks in revenue and profit.
 Analyzed distribution of order values and high-margin price bands.
 Investigated product and regional performance trends.
 
-4️⃣ Power BI Dashboard Creation
+4️ Power BI Dashboard Creation
 
 Designed three dashboards:
 Executive Overview & Trends – Business KPIs, monthly trends, and customer order analysis.
@@ -69,7 +69,7 @@ Product & Channel Performance – Best-selling products, profit leaders, and cha
 Geographic & Customer Insights – Regional performance, low-performing customers, and state-wise sales.
 Added slicers, filters, and interactive visuals for drill-down analysis.
 
-📷 Dashboard Previews
+## Dashboard Previews
 Executive Overview & Trends
 <img width="1318" height="734" alt="Screenshot 2025-08-12 082641" src="https://github.com/user-attachments/assets/7eb585a4-69b7-4adb-94af-0170d28fc1ad" />
 
