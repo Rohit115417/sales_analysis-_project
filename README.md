@@ -1,5 +1,5 @@
-# sales_analysis_project
-📊 Sales Analysis Project
+
+## Sales Analysis Project
 ## Project Overview
 This project analyzes sales performance using Python, SQL, and Power BI to uncover actionable insights for business decision-making.
 The workflow includes data cleaning, exploratory data analysis (EDA), SQL-based data merging, and interactive dashboard creation to monitor key business metrics.
@@ -15,18 +15,31 @@ SQL → Merging tables, filtering, and data retrieval within Python
 Power BI → Creating interactive dashboards for visualization & KPI tracking
 
 ## KPIs Used in the Dashboard
+
 Total Revenue – Measures overall sales performance.
+
 Total Profit – Tracks business profitability.
+
 Profit Margin % – Shows efficiency in converting sales to profit.
+
 Total Orders – Indicates sales volume.
+
 Revenue per Order – Highlights average customer spending.
+
 Revenue by Region – Shows geographic contribution.
+
 Profit Margin by Region – Compares profitability across regions.
+
 Top/Bottom Products by Revenue – Identifies best and worst performers.
+
 Top/Bottom Products by Profit Margin – Highlights most/least efficient products.
+
 Revenue & Profit by Sales Channel – Analyzes performance of Wholesale, Distributor, and Export channels.
+
 Monthly Revenue & Profit Trends – Tracks seasonality in business.
+
 Order Value Distribution – Segments customers by spending tier.
+
 Unit Price vs. Profit Margin – Identifies high-margin pricing bands.
 
 🔄 Project Workflow
@@ -71,21 +84,21 @@ Geographic & Customer Insights
 
 
 
-📈 Insights & Key Findings
+## Insights & Key Findings
 
-##Revenue & Profit Trends:
+## Revenue & Profit Trends:
 $1.2B in total revenue with $461.8M profit and 37.36% profit margin.
 Peaks in April, May, and August highlight strong seasonal demand.
 
-##Customer Behavior:
+## Customer Behavior:
 Most orders are in lower spending tiers.
 High-margin price bands at ~$1K, ~$2K, and ~$5K–$6K.
 
-##Regional Insights:
+## Regional Insights:
 Midwest is the top-performing region (30.1% of sales, 37.5% margin).
 Wyoming has the lowest sales at $1.8M.
 
-##Product Performance:
+## Product Performance:
 Product 26 ($117M) leads in revenue, Product 9 (40% margin) leads in profitability.
 
 ##Channel Performance:
